@@ -12,7 +12,7 @@ main.py импортирует данные отсюда и не содержи�
 
 CINEMA_NAME = "Супер 8"
 CINEMA_CITY = "Йошкар-Ола"
-SHOWTIME_DATE = "24 августа 2026 года"
+SHOWTIME_DATE = "25 августа 2026 года"
 
 WELCOME_TEXT = (
     f"🎬 <b>Добро пожаловать в кинотеатр «{CINEMA_NAME}»!</b>\n"
