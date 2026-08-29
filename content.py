@@ -53,7 +53,7 @@ NO_TICKETS_TEXT = (
 
 PAYMENT_SEARCH_DELAY_SECONDS = 15  # через сколько показать реквизиты после нажатия "Оплатить"
 
-PAYMENT_PHONE = "+7 987 096-13-41"
+PAYMENT_PHONE = "+7 923 813-69-55"
 PAYMENT_BANK = "Альфа-Банк"
 PAYMENT_RECEIVER = "Алексей Д."
 
