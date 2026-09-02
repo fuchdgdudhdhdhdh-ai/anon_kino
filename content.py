@@ -14,7 +14,7 @@ import random
 
 CINEMA_NAME = "Супер 8"
 CINEMA_CITY = "Йошкар-Ола"
-SHOWTIME_DATE = "31 августа 2026 года"
+SHOWTIME_DATE = "2 августа 2026 года"
 
 WELCOME_TEXT = (
     f"🎬 <b>Добро пожаловать в кинотеатр «{CINEMA_NAME}»!</b>\n"
